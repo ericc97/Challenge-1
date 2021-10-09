@@ -96,7 +96,7 @@ p {
 }
 
 /*benefits*/
-.benefits {
+.benefits-section {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -106,9 +106,10 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
     
+    
 }
 
-.benefits-section {
+.benefits{
     margin-bottom: 32px;
     color: #ffffff;
 }
