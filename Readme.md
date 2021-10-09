@@ -4,7 +4,8 @@ Horiseon provides Optimization, Management, and Marketing for business owners lo
 
 ## Window Preview
 
-![Horiseon landing page](../assets/images/Horiseon.png "Horiseon landing page")
+![Horiseon landing page](./assets/images/Horiseon.png?raw=true "Horiseon landing page")
+
 
 ## Use Cases
 
