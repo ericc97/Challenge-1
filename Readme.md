@@ -2,6 +2,10 @@
 
 Horiseon provides Optimization, Management, and Marketing for business owners looking to increase foot traffic to their webpages. 
 
+## Window Preview
+
+![Horiseon landing page](../assets/images/Horiseon.png "Horiseon landing page")
+
 ## Use Cases
 
 Here at Horiseon when you opt-in on our SOE services we will add and configure your website to better track popular searched keywords. Our platform will help ensure that a higher number of users click on your webpage. We also will ensure that these users viewing your webpage are there for the types of products that your busniess offers. Thus allowing a higher customer retention rate! 
